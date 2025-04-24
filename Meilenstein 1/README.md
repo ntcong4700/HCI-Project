@@ -2,7 +2,7 @@
 ***Thanh Cong Nguyen***   
 ***Manh Trung Hoang***  
 ***Hong Quan Nguyen***  
-***Vu Nguyen Nguyen***  
+**Nguyen Vu***  
 ***Timothy Hioe***  
 
 ### 1. Problemraum
