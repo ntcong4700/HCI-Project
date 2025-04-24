@@ -28,7 +28,7 @@ Im optimalen ermöglicht das geplante System:
 
 Durch diese gezielte Eingrenzung des Problemraums können wir eine bedarfsgerechte Lösung entwickeln, die sich am realen Nutzungskontext orientiert und konkret auf die Arbeitswirklichkeit der Zielgruppe e
 
-2. User research
+## 2. User research
 
 **Zielsetzung**:
 Das Ziel des User Research ist es, die konkreten Bedürfnisse, Erwartungen und Herausforderungen der Nutzer:innen im Arbeitsalltag zu verstehen. Diese Erkenntnisse bilden die Grundlage für die Entwicklung eines benutzerfreundlichen, effizienten Systems, das gezielt die Arbeitsprozesse im Praxisumfeld unterstützt.
@@ -42,7 +42,7 @@ Die zentralen Fragen :
 
 Die Zielgruppe:
 
-##  Zielgruppe 1: Ärzt:innen
+###  Zielgruppe 1: Ärzt:innen
 
 ### Merkmale
 - Arbeiten unter hohem Zeitdruck (ca. 7,6 Minuten pro Patient)
@@ -61,7 +61,7 @@ Die Zielgruppe:
 
 ---
 
-## ️ Zielgruppe 2: Pflegepersonal / MFA
+### ️ Zielgruppe 2: Pflegepersonal / MFA
 
 ### Merkmale
 - Verantwortlich für Organisation, Kommunikation, Datenpflege
