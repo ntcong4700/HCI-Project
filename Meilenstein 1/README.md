@@ -233,7 +233,7 @@ Das Ziel des User Research ist es, die konkreten Bedürfnisse, Erwartungen und H
 
 ### Persona 1 :
 
-![Persona 1](https://github.com/ntcong4700/HCI-Project/edit/meilenstein1/Meilenstein%201/README.md)
+![Persona 1](Screenshot 2025-04-30 150458.png)
 
 **Biografie :**
 
