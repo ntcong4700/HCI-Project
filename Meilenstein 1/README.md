@@ -59,8 +59,6 @@ Die Zielgruppe:
 - Fehleranfälligkeit bei manueller Dateneingabe
 - Hoher Aufwand für nicht-medizinische Tätigkeiten (z. B. Suchen)
 
----
-
 ### ️ Zielgruppe 2: Pflegepersonal / MFA
 
 ### Merkmale
