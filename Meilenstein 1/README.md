@@ -233,7 +233,7 @@ Das Ziel des User Research ist es, die konkreten Bedürfnisse, Erwartungen und H
 
 ### Persona 1 :
 
-![[Screenshot 2025-04-30 150458.png]]
+![Persona 1](Screenshot 2025-04-30 150458.png)
 
 **Biografie :**
 
@@ -279,7 +279,7 @@ Das Ziel des User Research ist es, die konkreten Bedürfnisse, Erwartungen und H
 ---
 ### Persona 2 :
 
-![[Screenshot 2025-04-30 160615.png]]
+![Persona 2](Screenshot 2025-04-30 160615.png)
 
 **Biografie :**
 
@@ -325,7 +325,7 @@ Das Ziel des User Research ist es, die konkreten Bedürfnisse, Erwartungen und H
 ---
 ### Persona 3 :
 
-![[Screenshot 2025-04-30 161100.png]]
+![Persona 3](Screenshot 2025-04-30 161100.png)
 
 **Biografie :**
 
