@@ -233,7 +233,7 @@ Das Ziel des User Research ist es, die konkreten Bedürfnisse, Erwartungen und H
 
 ### Persona 1 :
 
-![Jessica](Screenshot 2025-04-30 150458.png)
+![[Screenshot 2025-04-30 150458.png]]
 
 **Biografie :**
 
@@ -279,6 +279,8 @@ Das Ziel des User Research ist es, die konkreten Bedürfnisse, Erwartungen und H
 ---
 ### Persona 2 :
 
+![[Screenshot 2025-04-30 160615.png]]
+
 **Biografie :**
 
 - Name: Dr. Med. Kim
@@ -322,6 +324,8 @@ Das Ziel des User Research ist es, die konkreten Bedürfnisse, Erwartungen und H
 
 ---
 ### Persona 3 :
+
+![[Screenshot 2025-04-30 161100.png]]
 
 **Biografie :**
 
