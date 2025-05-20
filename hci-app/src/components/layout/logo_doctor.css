@@ -1,0 +1,51 @@
+.box {
+    height: 65px;
+    width: 208px;
+    color: #f4f8ff;
+}
+
+.box .logo {
+    height: 65px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 208px;
+}
+
+.box .frame {
+    background-color: #f4f8ff;
+    height: 65px;
+}
+
+.box .overlap-group {
+    height: 41px;
+    left: 18px;
+    position: relative;
+    top: 12px;
+    width: 137px;
+}
+
+.box .img {
+    height: 41px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 44px;
+    border-radius: 100%;
+}
+
+.box .text-wrapper {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 400;
+    height: 17px;
+    left: 34px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    white-space: nowrap;
+    width: 103px;
+}
