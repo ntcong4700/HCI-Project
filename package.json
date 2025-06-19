@@ -1,0 +1,32 @@
+{
+  "name": "hci-project_dashboard",
+  "version": "1.0.0",
+  "description": "Web-basierten Dachboards zur Unterstützung der Ärztinnen im Praxisalltag.  - **Praxisalltag** ➜ *subject of research* - **Dashboard** ➜ *Möglichst viele Informationen der Patientinnen in einem benutzbaren interaktiven User Interface*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://code.fbi.h-da.de/sthnnguye/hci-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.8",
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "lucide-react": "^0.514.0",
+    "mongoose": "^8.15.0",
+    "react-icons": "^5.5.0",
+    "tailwindcss": "^4.1.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
